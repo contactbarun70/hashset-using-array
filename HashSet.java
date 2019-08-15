@@ -8,7 +8,7 @@ import java.util.Collection;
 import java.util.Iterator;
 
 /**
- * @author 389820
+ * @author contactbarun70
  *
  */
 public class HashSet<E> {
